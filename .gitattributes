@@ -1,2 +1,3 @@
 *.cs linguist-language=C#
+*。xaml linguist-language=c#
 *.ico linguist-language=C#
