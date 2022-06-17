@@ -1,0 +1,3 @@
+*.cs linguist-language=C#
+*.xaml linguist-language=C#
+*.baml linguist-language=C#
